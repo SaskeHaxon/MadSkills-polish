@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MadSkills_SettingsCategory>Mad Skills</MadSkills_SettingsCategory>
+	<MadSkills_DailyXPSaturationThresholdLabel>Limit dziennego doświadczenia</MadSkills_DailyXPSaturationThresholdLabel>
+	<MadSkills_DailyXPSaturationThresholdTip>Domyślna wartość Rimworld'a: 4000
+Po uzystaniu takiej ilości doświadczenia w umiejętności, cały nadmiar będzie mnożony przez poniższą wartość, do połnocy.</MadSkills_DailyXPSaturationThresholdTip>
+	<MadSkills_SaturatedXPMultiplierLabel>Over-limit multiplier</MadSkills_SaturatedXPMultiplierLabel>
+	<MadSkills_SaturatedXPMultiplierTip>Domyślna wartość: 20%
+Mnoży doświadczenie zdobyte w danej umiejętności, która przekroczyła dzienny limit.
+Ustaw na 100%, aby całkowicie wyłączyć dzieny limit doświadczenia.</MadSkills_SaturatedXPMultiplierTip>
+	<MadSkills_MultiplierLabel>Mnożnik zanikania</MadSkills_MultiplierLabel>
+	<MadSkills_MultiplierTip>Domyślna wartość: 100%
+Mnożnik domyślnego doświadczenia umiejętności.
+0% to nic, 50% to połowa, 200% to dwa razy więcej, itd.</MadSkills_MultiplierTip>
+	<MadSkills_TieredLabel>Tiered</MadSkills_TieredLabel>
+	<MadSkills_TieredTip>Domyślna wartość: wyłączone
+Zapobiega spadku poziomu umiejętności; Doświadczenie do następnego poziomu zanika zgodnie z ustawieniem mnożnika.</MadSkills_TieredTip>
+
+
+</LanguageData>
